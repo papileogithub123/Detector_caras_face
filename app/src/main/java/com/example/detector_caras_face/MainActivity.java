@@ -25,23 +25,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("log1", " esta es una prueba " +ss);
 
-         btn1=(Button) findViewById(R.id.button);
-        btn2=(Button) findViewById(R.id.button2);
-        final TextView tx1;tx1=(TextView) findViewById(R.id.tex1);
+      //   btn1=(Button) findViewById(R.id.button);
+     //   btn2=(Button) findViewById(R.id.button2);
+      //  final TextView tx1;tx1=(TextView) findViewById(R.id.tex1);
 
-
+        Toast.makeText(this,"fsdfdsf",Toast.LENGTH_LONG).show();
+        
 
       //  List<String> androids = List.of("Kitkat", "Lollipop", "Marshmallow");
     }
     int ss=10;
- }
-
- interface  onc   {
-
-
-     public void onClick(View v);
-
-     public static void leo() {
-
-     }
  }
