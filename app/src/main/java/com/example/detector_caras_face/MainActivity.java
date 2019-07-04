@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(),"ssssssss",Toast.LENGTH_LONG).show();
 
 
+        Toast.makeText(getApplicationContext(),"ssssssss",Toast.LENGTH_LONG).show();
 
       //  List<String> androids = List.of("Kitkat", "Lollipop", "Marshmallow");
     }
