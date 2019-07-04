@@ -29,11 +29,7 @@ public class MainActivity extends AppCompatActivity {
         btn2=(Button) findViewById(R.id.button2);
         final TextView tx1;tx1=(TextView) findViewById(R.id.tex1);
 
-        Toast.makeText(getApplicationContext(),"ssssssss",Toast.LENGTH_LONG).show();
 
-        Toast.makeText(getApplicationContext(),"ssssssss",Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(),"ssssssss",Toast.LENGTH_LONG).show();
-        Toast.makeText(getApplicationContext(),"ssssssss",Toast.LENGTH_LONG).show();
 
       //  List<String> androids = List.of("Kitkat", "Lollipop", "Marshmallow");
     }
